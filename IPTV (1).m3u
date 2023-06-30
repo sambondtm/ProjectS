@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:0 tvg-name="Channel 1" group-title="TV",Channel 1
+rtsp://10.65.86.91/0
+
+#EXTINF:0 tvg-name="Channel 2" group-title="TV",Channel 2
+rtsp://10.65.86.91/4
+
+#EXTINF:0 tvg-name="Channel 3" group-title="TV",Channel 4
+rtsp://10.65.86.91/8
+
+#EXTINF:0 tvg-name="Channel 4" group-title="TV",Channel 4
+rtsp://10.65.86.91/12
